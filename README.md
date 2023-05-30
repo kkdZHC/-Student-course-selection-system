@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+## Start server
+```
+node app
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
